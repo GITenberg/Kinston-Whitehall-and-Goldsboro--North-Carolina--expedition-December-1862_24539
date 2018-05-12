@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26566'
     url: http://www.gutenberg.org/2009/agents/26566
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24539#Kinston-Whitehall-and-Goldsboro--North-Carolina--expedition-December-1862
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2008-02-06'
 gutenberg_type: Text
